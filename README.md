@@ -22,10 +22,7 @@ run the now executable file
 
 ```./wolfram.rb ```
 
-Requirements
-------------
-Ruby
-Bundler
+
 
 
 
