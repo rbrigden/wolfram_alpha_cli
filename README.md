@@ -3,30 +3,30 @@ Wolfram Alpha CLI
 
 Basic command line interface using the Wolfram Alpha API.
 
-features
+Features
 --------
 
 * quickly make wolfram alpha queries on the command line
 
 
-setup
+Setup
 -----
 
-* ruby setup.rb # install any necessary dependencies afterwards
+```ruby setup.rb  ```
 
-*Note:* You may need to use sudo to install gems
+*Note:* You may need to use sudo to install gems and/or install other dependencies
 
-install
+Usage
 -------
+run the now executable file
 
-* ./wolfram.rb # run the executable file
+```./wolfram.rb ```
 
-requirements
+Requirements
 ------------
 
 Ruby
 Bundler
 
-author
-------------
-[Ryan Brigden](andrew.cmu.edu/user/rbrigden)
+
+by [Ryan Brigden](andrew.cmu.edu/user/rbrigden) | rbrigden@andover.edu
