@@ -24,9 +24,9 @@ run the now executable file
 
 Requirements
 ------------
-
 Ruby
 Bundler
+
 
 
 by [Ryan Brigden](http://andrew.cmu.edu/user/rbrigden) | rbrigden@andover.edu
