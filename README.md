@@ -6,7 +6,7 @@ Basic command line interface using the Wolfram Alpha API.
 features
 --------
 
-* quickly make wolfram alpha queries on the command line
+quickly make wolfram alpha queries on the command line
 
 
 setup
@@ -29,4 +29,4 @@ Bundler
 
 author
 ------------
-[Ryan Brigden](andrew.cmu.edu/user/rbrigden)
+[Ryan Brigden](www.andrew.cmu.edu/user/rbrigden)
