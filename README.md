@@ -29,4 +29,4 @@ Ruby
 Bundler
 
 
-by [Ryan Brigden](andrew.cmu.edu/user/rbrigden) | rbrigden@andover.edu
+by [Ryan Brigden](http://andrew.cmu.edu/user/rbrigden) | rbrigden@andover.edu
