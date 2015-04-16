@@ -23,7 +23,4 @@ run the now executable file
 ```./wolfram.rb ```
 
 
-
-
-
-by [Ryan Brigden](http://andrew.cmu.edu/user/rbrigden) | rbrigden@andover.edu
+by [Ryan Brigden](http://andrew.cmu.edu/user/rbrigden)
