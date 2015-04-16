@@ -1,4 +1,3 @@
-=======
 Wolfram Alpha CLI
 ========
 
